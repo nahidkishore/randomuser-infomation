@@ -1,0 +1,32 @@
+/* create new blog form */
+.create {
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+.create label {
+  text-align: left;
+  display: block;
+}
+.create h1 {
+  font-size: 30px;
+  color: rgb(75, 160, 113);
+  margin: 25px 0 22px 0;
+}
+.create input,
+.create select {
+  width: 100%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  display: block;
+}
+.button {
+  background: #5aaf6f;
+  color: #c8cfe2;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
